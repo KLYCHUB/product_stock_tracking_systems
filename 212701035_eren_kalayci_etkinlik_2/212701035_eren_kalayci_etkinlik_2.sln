@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "212701035_eren_kalayci_etkinlik_2", "212701035_eren_kalayci_etkinlik_2\212701035_eren_kalayci_etkinlik_2.csproj", "{6124F41E-D40B-4F0B-A0DD-0E389D4BD2A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6124F41E-D40B-4F0B-A0DD-0E389D4BD2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6124F41E-D40B-4F0B-A0DD-0E389D4BD2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6124F41E-D40B-4F0B-A0DD-0E389D4BD2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6124F41E-D40B-4F0B-A0DD-0E389D4BD2A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3129CC7E-6E82-4D77-9CD0-6ED8AA06AD64}
+	EndGlobalSection
+EndGlobal
